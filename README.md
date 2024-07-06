@@ -2,6 +2,8 @@
 
 Simple storefront site built with Angular, showcasing various Angular concepts including standalone apps, modules, services, components, and routing. Performs basic CRUD (Create, Read, Update, Delete) operations on products.
 
+<img width="867" alt="4" src="https://github.com/dhruvkumaragrawal85/Store-App/assets/110057140/5fe715e3-6123-4235-9620-732ccc833913">
+
 
 ### Prerequisites
 
